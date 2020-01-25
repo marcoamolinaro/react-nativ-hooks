@@ -4,3 +4,6 @@
 [submodule "blog"]
 	path = blog
 	url = https://github.com/marcoamolinaro/react-native-hooks-blog.git
+[submodule "food"]
+	path = food
+	url = https://github.com/marcoamolinaro/react-native-hooks-food.git
