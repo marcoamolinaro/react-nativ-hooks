@@ -7,3 +7,6 @@
 [submodule "food"]
 	path = food
 	url = https://github.com/marcoamolinaro/react-native-hooks-food.git
+[submodule "tracker"]
+	path = tracker
+	url = https://github.com/marcoamolinaro/react-nativ-hooks-tracker.git
