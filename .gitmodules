@@ -1,3 +1,6 @@
 [submodule "rn-starter"]
 	path = rn-starter
 	url = https://github.com/marcoamolinaro/react-native-hooks-rn-starter.git
+[submodule "blog"]
+	path = blog
+	url = https://github.com/marcoamolinaro/react-native-hooks-blog.git
